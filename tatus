@@ -1,0 +1,42 @@
+[33mcommit 4e99283679c273cf29a68ee1c62ee8c4af563a5a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 23:14:39 2025 +0900
+
+    FontSample README 내용 추가
+
+[33mcommit a61cd8cd19f09cead587028c0308dc5c0f49a9b7[m
+Merge: 7bc2624 1803988
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 23:08:18 2025 +0900
+
+    Merge branch 'main' of https://github.com/kwonyoungchan/MFC_GDI_EXAMPLE
+
+[33mcommit 7bc262443aeedcdb0e1881c9fc1bc7580cd48a74[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 23:07:44 2025 +0900
+
+    FontSample 프로젝트 추가
+
+[33mcommit 180398857dfc322d04c1f10eb58c08a12d3ff554[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 01:51:11 2025 +0900
+
+    Update README.md
+
+[33mcommit 6fff321b6eef22cc3934a50577d3bb580ab09eb4[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 01:47:57 2025 +0900
+
+    PenSample 관련 Readme 작성
+
+[33mcommit de237341a59f8f50eb4c39ce571a31eb72d9c01f[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 01:33:53 2025 +0900
+
+    Pen Sample 프로젝트 추가
+
+[33mcommit e901546ac4bc1cec82f5f7d3bd44a94c14ab0aab[m
+Author: KwonYoungChan <46679056+kwonyoungchan@users.noreply.github.com>
+Date:   Thu May 15 00:05:52 2025 +0900
+
+    Initial commit
